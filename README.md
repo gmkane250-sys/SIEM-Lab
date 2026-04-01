@@ -15,8 +15,11 @@ Figure 3: Downloading the Kali Linux compatible with VMware
 <img width="1834" height="997" alt="image4" src="https://github.com/user-attachments/assets/53e6dbfe-ee26-4595-838d-ffb753435982" />
 Figure 4: Extracting the files from the zip
 
-<img width="1777" height="964" alt="image5" src="https://github.com/user-attachments/assets/d50b332d-3294-46c2-850d-0a5b328580de" /><img width="1838" height="981" alt="image7" src="https://github.com/user-attachments/assets/1111a1ba-6663-4ea9-a1ce-030eb515f9b7" />
-Figures 5 and 6: The virtual machine's file and then the virtual machine implemented into the VMware hypervisor
+<img width="1777" height="964" alt="image5" src="https://github.com/user-attachments/assets/d50b332d-3294-46c2-850d-0a5b328580de" />
+Figure 5: The virtual machine's file
+
+<img width="1838" height="981" alt="image7" src="https://github.com/user-attachments/assets/1111a1ba-6663-4ea9-a1ce-030eb515f9b7" />
+Figures 6: The virtual machine implemented into the VMware hypervisor
 
 <img width="1278" height="823" alt="image8" src="https://github.com/user-attachments/assets/032efcbc-57c9-403f-ad2d-e61eed9c2df7" />
 Figure 7: Command line to fully update kali
