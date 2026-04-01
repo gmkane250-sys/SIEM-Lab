@@ -57,6 +57,7 @@ Figure 16: Putting in the manager's ip as well as the extracted key to activate 
 Figure 17: The active agent on the manager's screen
 
 <img width="877" height="689" alt="image21" src="https://github.com/user-attachments/assets/b9061263-37ed-4337-94c5-f4fd3fea70f0" />
+
 Figure 18: Entering the view configs file to edit the software and add a sensitve file for file integrity monitoring
 
 <img width="1011" height="707" alt="image22" src="https://github.com/user-attachments/assets/bd273676-fa92-41b8-8b28-1e3ecf65e7ba" />
