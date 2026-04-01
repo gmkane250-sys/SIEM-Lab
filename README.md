@@ -44,7 +44,7 @@ Figure 13: Grabbing my ip address for the manager. As well as inputting a comman
 Figure 14: Putting the ip address of the agent into the software as well as naming the agent
 
 <img width="1286" height="859" alt="image17" src="https://github.com/user-attachments/assets/bfec2795-ffd7-42d8-b981-54421f3e4321" />
-Figure 15: Grabbing the key for the agent
+Figure 15: Grabbing the key for the agent, it will be needed for login
 
 <img width="645" height="513" alt="image16" src="https://github.com/user-attachments/assets/2bfd55be-2f1f-4203-82b0-2e2a62bac48f" />
 Figure 16: Putting in the manager's ip as well as the extracted key to activate the agent software
