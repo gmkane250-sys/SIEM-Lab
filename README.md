@@ -1,7 +1,6 @@
 # SIEM-Lab
 Description
 This lab is a demonstration of my abilities to set up a SIEM application across a network. I have two virtual machines connected on a network through the VMware hypervisor. One machine is a Kali-Linux which represents the security manager. The other machine represents a employee/worker with a sensitive file that needs to be monitored by the management machine. The wazuh SIEM and XDR is implimented on both machines. Documented later is proof of the SIEM operating as well.
-Table of Contents
 
 # Setting up the virtual machines
 <img width="1804" height="759" alt="image" src="https://github.com/user-attachments/assets/f40ee859-54e3-46d9-9a76-cd87f919924e" />
