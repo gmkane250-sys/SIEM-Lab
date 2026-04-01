@@ -47,6 +47,7 @@ Figure 14: Putting the ip address of the agent into the software as well as nami
 Figure 15: Grabbing the key for the agent, it will be needed for login
 
 <img width="645" height="513" alt="image16" src="https://github.com/user-attachments/assets/2bfd55be-2f1f-4203-82b0-2e2a62bac48f" />
+
 Figure 16: Putting in the manager's ip as well as the extracted key to activate the agent software
 
 <img width="1276" height="850" alt="image20" src="https://github.com/user-attachments/assets/a1feec4e-8578-4e27-a5e0-4b74d388cb08" />
